@@ -1,0 +1,17 @@
+{
+  "$jason": {
+    "header": {
+      "title": {
+        "type": "image",
+        "url": "https://png.icons8.com/window"
+      }
+    },
+    "background": {
+      "type": "html",
+      "url": "",
+      "action": {
+        "trigger": "navigate"
+      }
+    }
+  }
+}
